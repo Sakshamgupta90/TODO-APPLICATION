@@ -61,7 +61,7 @@ export class AppComponent {
       );
   }
 
-  //Implement loading bar
+  //Implement Progress bar
 
   ngAfterViewInit() {
     let element = document.getElementById('progress-bar')
