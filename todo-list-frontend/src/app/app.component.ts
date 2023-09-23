@@ -50,7 +50,7 @@ export class AppComponent {
     }
   }
 
-  //Implement delete 
+  //Implement delete on click
 
   onClick(t: any){
     console.log(t)
