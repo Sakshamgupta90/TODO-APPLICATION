@@ -18,7 +18,7 @@ public class TodosService {
     }
     
 
-    //Delete the todo on click
+    
 
     public void deleteTodos(long id) throws Exception {
         Todo todoToDelete = todosRepository.findById(id)
